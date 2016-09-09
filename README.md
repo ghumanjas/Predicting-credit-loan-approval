@@ -10,12 +10,12 @@ The various steps followed for the project is as follows:
     - Working with Continuous and Categorical Variables
 
 2. Data Manipulation in R
-   Using Dplyr
-   Feature Engineering (Creation of new features, Transformation of features, Interaction between features)
-   Label Encoding / One Hot Encoding (To convert categorical data to continous data type for ease of analysis)
+   - Using Dplyr
+   - Feature Engineering (Creation of new features, Transformation of features, Interaction between features)
+   - Label Encoding / One Hot Encoding (To convert categorical data to continous data type for ease of analysis)
 
 3. Predictive Modeling using:
-   Logistic Regression (Used K-cross validation technique for fit and confusion matrix for accuracy calculations)
-   Random Forest
-   XGBoost
+   - Logistic Regression (Used K-cross validation technique for fit and confusion matrix for accuracy calculations)
+   - Random Forest
+   - XGBoost
 
